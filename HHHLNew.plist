@@ -20,7 +20,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://cdn.eallerp.com/api/eallcn_agent_ios.png</string>
+                    <string>https://raw.githubusercontent.com/huangzhengheng/APPInstall/master/hhhlIcon512.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -28,7 +28,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://cdn.eallerp.com/api/eallcn_agent_ios.png</string>
+                    <string>https://raw.githubusercontent.com/huangzhengheng/APPInstall/master/hhhlIcon57.png</string>
                 </dict>
 
 
@@ -44,7 +44,7 @@
                 <key>title</key>
                 <string>辉煌互联</string>
                 <key>display-image</key>
-                <string>http://dl.eallcn.com/images/icons/eallcn_agent_ios.png</string>
+                <string>https://raw.githubusercontent.com/huangzhengheng/APPInstall/master/hhhlIcon57.png</string>
             </dict>
         </dict>
     </array>
